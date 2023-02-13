@@ -139,3 +139,6 @@ Los siguientes enlaces pueden serle de utilidad para la implementación en Pytho
 deben tener la capacidad de explicar lo realizado por los demás compañeros
  - El análisis de resultados y su justificación debe ser realizado en grupo.
  - Las notas de los integrantes dentro de un mismo grupo de laboratorio pueden variar ya que cada integrante está encargado de la implementación de un algoritmo distinto. 
+
+## Repositorio del curso ISIS 3301
+[Sacado del repositorio del curso](https://gitlab.virtual.uniandes.edu.co/ISIS3301/laboratorios/tree/master/202310/Lab%201%20-%20Clustering)
